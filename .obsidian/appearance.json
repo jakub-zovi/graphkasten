@@ -1,0 +1,10 @@
+{
+  "cssTheme": "Prism",
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "Prism Fixes"
+  ],
+  "translucency": false,
+  "showRibbon": true,
+  "nativeMenus": true
+}

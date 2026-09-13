@@ -1,0 +1,198 @@
+{
+  "collapse-filter": false,
+  "search": "path:topics/ -tag:#private -[\"hidden\": true]",
+  "showTags": false,
+  "showAttachments": true,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "[\"topics\":\"Home\"]",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:infra/templates",
+      "color": {
+        "a": 1,
+        "rgb": 7948069
+      }
+    },
+    {
+      "query": "tag:#gen_ai/models",
+      "color": {
+        "a": 1,
+        "rgb": 7913372
+      }
+    },
+    {
+      "query": "tag:#gen_ai/rag",
+      "color": {
+        "a": 1,
+        "rgb": 6814092
+      }
+    },
+    {
+      "query": "tag:#gen_ai/agents",
+      "color": {
+        "a": 1,
+        "rgb": 513441
+      }
+    },
+    {
+      "query": "tag:#gen_ai/evaluation",
+      "color": {
+        "a": 1,
+        "rgb": 947344
+      }
+    },
+    {
+      "query": "tag:#gen_ai",
+      "color": {
+        "a": 1,
+        "rgb": 3003583
+      }
+    },
+    {
+      "query": "tag:#cs/data_eng",
+      "color": {
+        "a": 1,
+        "rgb": 13082184
+      }
+    },
+    {
+      "query": "tag:#ml_ai/neural_nets",
+      "color": {
+        "a": 1,
+        "rgb": 4602840
+      }
+    },
+    {
+      "query": "[\"topics\":\"Reinforcement Learning\"]",
+      "color": {
+        "a": 1,
+        "rgb": 578813
+      }
+    },
+    {
+      "query": "[\"topics\":\"Boosting\"]",
+      "color": {
+        "a": 1,
+        "rgb": 8519157
+      }
+    },
+    {
+      "query": "tag:#ml_ai",
+      "color": {
+        "a": 1,
+        "rgb": 5490173
+      }
+    },
+    {
+      "query": "tag:#cs/swe",
+      "color": {
+        "a": 1,
+        "rgb": 16093490
+      }
+    },
+    {
+      "query": "tag:#cs/databases",
+      "color": {
+        "a": 1,
+        "rgb": 16078552
+      }
+    },
+    {
+      "query": "tag:#cs",
+      "color": {
+        "a": 1,
+        "rgb": 278170
+      }
+    },
+    {
+      "query": "tag:#work",
+      "color": {
+        "a": 1,
+        "rgb": 11779793
+      }
+    },
+    {
+      "query": "tag:#fin/theory",
+      "color": {
+        "a": 1,
+        "rgb": 11679534
+      }
+    },
+    {
+      "query": "[\"topics\": \"Intelligent Investor\"] [\"topics\": \"Chapter\"]",
+      "color": {
+        "a": 1,
+        "rgb": 10100513
+      }
+    },
+    {
+      "query": "tag:#fin/books",
+      "color": {
+        "a": 1,
+        "rgb": 10366418
+      }
+    },
+    {
+      "query": "tag:#fin/tools",
+      "color": {
+        "a": 1,
+        "rgb": 10600751
+      }
+    },
+    {
+      "query": "tag:#fin",
+      "color": {
+        "a": 1,
+        "rgb": 4835963
+      }
+    },
+    {
+      "query": "tag:#personal/pkm",
+      "color": {
+        "a": 1,
+        "rgb": 11184880
+      }
+    },
+    {
+      "query": "tag:#personal",
+      "color": {
+        "a": 1,
+        "rgb": 15582421
+      }
+    },
+    {
+      "query": "tag:#daily/2025",
+      "color": {
+        "a": 1,
+        "rgb": 16738740
+      }
+    },
+    {
+      "query": "tag:#daily",
+      "color": {
+        "a": 1,
+        "rgb": 11722950
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": -0.5,
+  "nodeSizeMultiplier": 1.19359861591695,
+  "lineSizeMultiplier": 1.93961937716263,
+  "collapse-forces": true,
+  "centerStrength": 0.348958333333333,
+  "repelStrength": 7.99307958477509,
+  "linkStrength": 0.916666666666667,
+  "linkDistance": 128,
+  "scale": 0.07549945456258496,
+  "close": false
+}

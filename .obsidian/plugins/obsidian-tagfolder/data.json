@@ -1,0 +1,45 @@
+{
+  "displayMethod": "NAME",
+  "alwaysOpen": true,
+  "ignoreDocTags": "",
+  "ignoreTags": "",
+  "hideOnRootTags": "",
+  "sortType": "MTIME_ASC",
+  "sortExactFirst": false,
+  "sortTypeTag": "NAME_ASC",
+  "expandLimit": 0,
+  "disableNestedTags": false,
+  "hideItems": "ALL_EXCEPT_BOTTOM",
+  "ignoreFolders": "",
+  "targetFolders": "",
+  "scanDelay": 250,
+  "useTitle": false,
+  "reduceNestedParent": true,
+  "frontmatterKey": "title",
+  "useTagInfo": false,
+  "tagInfo": "pininfo.md",
+  "mergeRedundantCombination": true,
+  "useVirtualTag": false,
+  "useFrontmatterTagsForNewNotes": true,
+  "doNotSimplifyTags": false,
+  "overrideTagClicking": false,
+  "useMultiPaneList": false,
+  "archiveTags": "",
+  "disableNarrowingDown": false,
+  "expandUntaggedToRoot": false,
+  "disableDragging": false,
+  "linkConfig": {
+    "incoming": {
+      "enabled": true,
+      "key": ""
+    },
+    "outgoing": {
+      "enabled": true,
+      "key": ""
+    }
+  },
+  "linkShowOnlyFDR": true,
+  "linkCombineOtherTree": true,
+  "showListIn": "",
+  "displayFolderAsTag": false
+}

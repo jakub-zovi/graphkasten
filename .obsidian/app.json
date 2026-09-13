@@ -1,0 +1,20 @@
+{
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "newFileLocation": "folder",
+  "spellcheck": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "readableLineLength": false,
+  "attachmentFolderPath": "infra/data/temp_data",
+  "userIgnoreFilters": [
+    ".claude/",
+    "infra/data/documents/claude_project_backup/"
+  ],
+  "newFileFolderPath": "landing"
+}

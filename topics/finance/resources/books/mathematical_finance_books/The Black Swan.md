@@ -1,0 +1,263 @@
+---
+tags:
+  - fin
+  - fin/books
+created: 2026-05-09 22:09:18
+modified: 2026-09-12T17:33
+published: 2009-10-13
+sources:
+  - "[[Incerto]]"
+topics:
+  - Black Swan
+  - Uncertainty
+  - Risk
+  - Forecasting
+authors:
+ai-assisted: true
+hidden:
+public: true
+title: The Black Swan
+subtitle: ""
+author:
+  - "[[Nassim Nicholas Taleb]]"
+publisher: Random House Digital, Inc.
+total: 388
+isbn: 812979184
+coverUrl: http://books.google.com/books/content?id=YdOYmYA2TJYC&printsec=frontcover&img=1&zoom=1&source=gbs_api
+localCover: "[[The Black Swan.jpg]]"
+status: read
+book-view: true
+---
+# The Black Swan
+## My Notes
+- Prologue
+    - literall swans in new world subverted expectations about swans in old world
+    - Maximizing exposure to blackswans
+        - Pay off from the unkown
+        - Tinker as much as you can to collect lot of black swans (increase chanves for luck)
+    - Mistake map for territory
+    - Anti-library
+    - Show you can walk to walk
+        - Take drastic action from time to time
+    - History does not crawl it jumps
+    - Wiliam Berlin Journal
+        - Most influenteial on Taleb
+        - Third Reich Something
+        - Platonic fold and platonic experts
+            - On platonic fold our represwntations ceases to apply
+- Chapter 1
+    - Not enough black swans to trade to build a career 
+        - Protect portfolio against large losses
+        - Focused on technical ineeficencies, but these dissapeared as tech progressed
+- Chapter 3
+    - Extreministan vs Mediocristan
+    - Knowledge data from extremistan/mediocristan
+    - Type 1 and type 2 randomness
+    - Diffrent scalable lawd
+    - Black swans more consequential and not frequent
+- Chapter 4
+    - Bertrand Russel 
+        - Problem of the Induction
+    - Emerath
+        - Fund flowet that never dies
+    - LTCM
+    - Black swan is relative to expectation
+        - Turkey vs butcher
+    - Matters should be seen on relative and not absolute time scale
+    - Black swans can take decades
+        - Especially positive ones
+            - Bitcoin case?
+    - Hume
+        - Philosophy fame after dearh
+    - Erudite
+    - Caring not to be a turkey
+- Chapter 5
+    - Round trip fallacy
+    - Karl Poper
+    - You know what is wrong with lot more certainty than what is right
+    - All pieces of information are not equal 
+    - Testing rule
+        - Directly
+        - Indirectly 
+- Chapter 6
+    - Theorising disease
+    - Kolmogorov complexity
+    - Society of judgment and decision making
+        - Conoman
+        - Sverski
+    - System 1 vs System 2 thinking
+        - System 1
+            - Intuition 
+            - Emotional
+            - Quick
+            - Heuristics  
+- Chapter 7
+    - Linear progression (platonic idea) is not the norm
+    - Black swan is outlier
+        - Consider the opposite
+        - The unexpected event that you want badly to happen
+            - BTC case, it may never happen
+        - Bstiani Fortress
+    - Risking pennies to win dollars vs opposite
+    - Humans believe anything as long you do not display diffidence
+    - Be smooth as possible in personal manners
+        - Be polite and friendly 
+            - Confidence signalling
+            - Easier to control people
+            - It is not what you are telling people, but how you are saying it
+    - Silence evidence is used by events to conceal their randomness
+- Chapter 8
+    - Study traits of failure to understand the successes
+        - Survivors/winners may emerge by luck
+            - Fund managers
+        - Pool of starving actors is larger than pool of starving accountants
+            - Even though they earn on average the same income
+    - Extremistan exacerbates silent evidence
+    - Weakened causality argument
+    - Be careful with because when you expect silent evidence
+- Chapter 9
+    - A nerd is someone who thinks exceedingly in the box
+        - Lol reminds of Ben Felix constantly saying word “nerd”
+    - Casino is only place when probabilities are known
+    - Ludic fallacy
+    - Unkown uncertainty 
+    - Mistaking map for the territory
+    - Ludic fallacy
+    - Gambling is inside of the platonic fold, life stands outside of it
+    - Prediction and not the narration demonstrates understanding of world
+- Chapter 10
+    - Professional forecaster are fallible in same way people guessing Katherine lovers
+        - Forecasters even more affected 
+    - Information is bad for knowledge
+    - Looking busy reinforces perception of causality 
+        - Especially in random environment 
+        - Employer thinks you are important
+    - Rich greek refuge that married widow of president Kennedy
+        - Did not work much
+        - But socialised a lot
+        - Charm opened doors for him
+    - More info can result in more useless hypotheses 
+    - Question error rate of procedure 
+        - Do not question procedure but the confidence of expert preforming it
+    - Knowledge vs craftsmanship 
+        - Easier to trust craftsmanship 
+    - Professions that deal with future and move have experts problem
+    - What matters is not how often times you are right, but how large your cumulative errors are
+    - Hedge hogs vs Fox
+    - Projection fallacies 
+        - Not including error rate
+        - Forecast degradation 
+    - Perhaps the wise one is someone who realises he can not see things far away 
+    - Hmm, note about Nassim opinion on buying home with respect to non-sedentary life
+- Chapter 11
+    - Forecasters fail to see monumental discoveries 
+    - When new tech emerges 
+        - We either overestimate or underestimate its importance
+    - Popper central argument
+        - To predict historical events you need to predict tech innovation 
+            - But tech innovation is unpredictable 
+    - Law of iterated knowledge
+        - From statistics 
+        - If you predict about invention of something, it has already been invented
+    - Poincare
+        - Three body problem
+        - Analysis in situ
+    - Friedrich Hayek
+        - Society as a whole thinks outside the box 
+        - Scientism 
+            - Overestimating subtle changes that constitute the world and weight should be assigned to them
+    - Don’t ask barber if you need a haircut and academic if his research is relevant
+    - Shackle
+        - Unknowledge
+        - Underrate
+    - Anchoring problem
+    - Riddle of induction - Goodman
+        - Projection of straight line with linear model
+- Chapter 12
+    - Anticipated utility
+        - Daniel Kahneman
+    - Effective forecasting
+        - Gilbert
+    - Butterfly effect
+        - Impossible to figure out causes from huricane to butterfly
+    - Randomness is about incomplete information
+- Chapter 13
+    - Provides general conclusion for those “I get the point, but what should I do?” 
+    - Advice is cheap
+    - Demand for certainty is intelectuall vice 
+    - Being a fool in right places
+        - Be human
+            - Involved epsitemiv ignorance
+        - Opinions are the stuff of life
+        - Do not try to avoid predicting
+    - Be prepared for all the relevant eventualities
+    - Maximise the serendipity around you
+    - You need to love to loose
+    - Fluctuates but does not sink
+        - Someone in safe position in corporate sinks after layoff
+        - Self-employed person can have fluctuating earnings, but is always in demand
+        - Same in investing
+    - Barbell strategy
+        - 90% in extremelly safe - treasuried
+        - 10% in extremelly risky - leveraged speculative bets (options)
+            - Have many as possible of these, not a single one!
+    - Positive vs negative black swan businesses 
+        - Positive
+            - Research, movies
+        - Negative
+            - Lending, insurance, military
+    - Infinite vigillance is just not possible
+    - Collect as many free non lotery tickets 
+        - Open-ended pay-offs
+    - Living in big cities increases number of serendipious encounters
+    - Yogi Bera
+        - Do not waste your time fighting forecasters
+    - Positive asymetric outcomes
+        - Pascal wager
+        - Focus on consequences (you know) rather than probabilities (you do not know)
+    - Nassim recommendation for trading
+        - 90% extra safe (t-bills)
+        - 10% speculative and leveraged
+            - Black swans exposure
+- Chapter 14
+    - Mertin
+        - Mathew effect
+            - Take from poor and give to rich
+            - Cumullative advantage
+                - Richer get richer
+                - Famous get more famous
+            - Failure id also cumullative
+    - Power law
+        - Distribution of income
+        - Zips law
+    - Ideas and contaigent 
+        - They spread structurally
+        - Basins of attractions
+    - Trading may have princes, but nobody stays the king
+    - The more socialist the country the more likely it is for coropartion to survive
+        - Paradox
+        - Example with US 500 companies in 1950s, only 70 survived in 40 years
+    - Luck is the great equalizer
+        - Capitalism enables people to get lucky
+        - Everything is transitory
+        - Luck is more egatilrian than intelligence
+    - Web enables creation of reservoirs of proto Googles waiting in the background
+        - Example with book on web vs fighting for physical shelf space in book store
+    - Type 2 Randomness 
+    - Networks
+        - Nodes concentration
+        - Banks problem
+        - Bitcoin solution
+- Chapter 15
+    - Read this also through text!
+    - Gaussian vs Mandelbronuan
+    - Gaus
+        - Go in to tail by deviation decreases probability exponentially 
+        - Safe to ignore outliers
+        - Only in bell curve and its siblings
+    - 80-20 rule
+        - Related to power law
+    - Note when to use gaussian
+    - Weird std commentary
+        - Reread 
+    - Catastrophe book by Posner

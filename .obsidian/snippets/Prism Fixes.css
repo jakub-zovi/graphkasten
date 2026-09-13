@@ -1,0 +1,50 @@
+/* ============================================================
+   Prism theme local fixes
+   Overrides live in a snippet so they survive theme updates.
+   Theme: Prism 3.8.0 (github.com/damiankorcz/Prism-Theme)
+   ============================================================ */
+
+/* 1. Remove the "Prism 3.8.0" version badge in the Settings window.
+      It is pinned to the top-left corner and overlaps the macOS
+      window (traffic-light) controls. */
+.modal.mod-settings .vertical-tab-header::after,
+.is-phone .modal.mod-settings .modal-title::after {
+  content: none !important;
+  display: none !important;
+}
+
+/* 2. Toggle switches (e.g. the Graph view "Filters" panel).
+      The theme's native thumb is as tall as the track, so it bulges
+      out. Define track + thumb explicitly: a clean pill with a smaller
+      circular thumb that slides fully left (off) / right (on). */
+.checkbox-container {
+  width: 40px !important;
+  height: 22px !important;
+  border-radius: 11px !important;
+  padding: 0 !important;
+  flex: 0 0 auto !important;
+}
+.checkbox-container::after {
+  width: 16px !important;
+  height: 16px !important;
+  top: 50% !important;
+  left: 3px !important;
+  margin: 0 !important;
+  border: none !important;
+  border-radius: 50% !important;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2) !important;
+  transform: translate3d(0, -50%, 0) !important;
+}
+.checkbox-container.is-enabled::after {
+  transform: translate3d(18px, -50%, 0) !important;
+}
+
+/* 3. Add breathing room between the Settings search bar and the first
+      tab group ("Options") in the Settings sidebar. */
+.modal.mod-settings .settings-search-container {
+  margin-bottom: var(--size-4-3) !important;
+}
+.modal.mod-settings .vertical-tab-header-group:first-of-type,
+.modal.mod-settings .vertical-tab-header-group-title:first-of-type {
+  margin-top: var(--size-4-3) !important;
+}

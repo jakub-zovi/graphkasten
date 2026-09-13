@@ -1,0 +1,6 @@
+{
+  "autorun": false,
+  "format": "YYYY-MM-DD",
+  "folder": "fleeting/daily/journal/2026/2026-09",
+  "template": "infra/templates/definitions/Daily Template"
+}

@@ -1,0 +1,117 @@
+filters:
+  and:
+    - note["book-view"] == true
+    - file.name != "Book Search Template"
+views:
+  - type: cards
+    name: Finance
+    filters:
+      and:
+        - file.inFolder("topics/finance")
+    groupBy:
+      property: status
+      direction: ASC
+    order:
+      - title
+      - author
+    sort:
+      - property: modified
+        direction: DESC
+    image: note.localCover
+    imageFit: contain
+    imageAspectRatio: 1
+  - type: cards
+    name: All
+    groupBy:
+      property: status
+      direction: ASC
+    order:
+      - title
+      - author
+    image: note.localCover
+    imageFit: contain
+    imageAspectRatio: 1
+  - type: cards
+    name: Computer Science
+    filters:
+      and:
+        - file.inFolder("topics/computer_science")
+    groupBy:
+      property: status
+      direction: ASC
+    order:
+      - title
+      - author
+    image: note.localCover
+    imageFit: contain
+    imageAspectRatio: 1
+  - type: cards
+    name: Philosophy
+    filters:
+      and:
+        - file.inFolder("topics/philosophy")
+    groupBy:
+      property: status
+      direction: ASC
+    order:
+      - title
+      - author
+    image: note.localCover
+    imageFit: contain
+    imageAspectRatio: 1
+  - type: cards
+    name: Psychology
+    filters:
+      and:
+        - file.inFolder("topics/psychology")
+    groupBy:
+      property: status
+      direction: ASC
+    order:
+      - title
+      - author
+    image: note.localCover
+    imageFit: contain
+    imageAspectRatio: 1
+  - type: cards
+    name: Spirituality
+    filters:
+      and:
+        - file.inFolder("topics/spirituality")
+    groupBy:
+      property: status
+      direction: ASC
+    order:
+      - title
+      - author
+    image: note.localCover
+    imageFit: contain
+    imageAspectRatio: 1
+  - type: cards
+    name: Personal Development
+    filters:
+      and:
+        - file.inFolder("topics/personal/lifestyle/Hobbies/Books/Personal Development")
+    groupBy:
+      property: status
+      direction: ASC
+    order:
+      - title
+      - author
+    image: note.localCover
+    imageFit: contain
+    imageAspectRatio: 1
+  - type: cards
+    name: Free Time
+    filters:
+      and:
+        - file.inFolder("topics/personal/lifestyle/Hobbies/Books/Free Time")
+    groupBy:
+      property: status
+      direction: ASC
+    order:
+      - title
+      - author
+    image: note.localCover
+    imageFit: contain
+    imageAspectRatio: 1

@@ -1,0 +1,30 @@
+{
+  "items": [
+    {
+      "type": "graph",
+      "ctime": 1740821381012,
+      "title": "Global Graph",
+      "options": {
+        "collapse-filter": false,
+        "search": "path:topics/",
+        "showTags": false,
+        "showAttachments": false,
+        "hideUnresolved": true,
+        "showOrphans": true,
+        "collapse-color-groups": false,
+        "collapse-display": false,
+        "showArrow": true,
+        "textFadeMultiplier": 0.5,
+        "nodeSizeMultiplier": 1.19359861591695,
+        "lineSizeMultiplier": 1.93961937716263,
+        "collapse-forces": false,
+        "centerStrength": 0.348958333333333,
+        "repelStrength": 7.99307958477509,
+        "linkStrength": 0.916666666666667,
+        "linkDistance": 128,
+        "scale": 0.10877338427999969,
+        "close": true
+      }
+    }
+  ]
+}
